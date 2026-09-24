@@ -1,1 +1,2 @@
 late return fee =  500
+max book = 5
